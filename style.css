@@ -1,0 +1,34 @@
+html{
+    scroll-behavior: smooth !important;
+}
+body{
+    height: 80vh;
+    width: auto;
+}
+#navbarNav{
+    font-size: 1.5rem !important;
+    font-family: "Kaushan Script", "sans-serif"!important;
+}
+nav a{
+    color: white !important;
+    font-size : 1rem;
+}
+nav a:hover {
+    color : #FF8000 !important;
+}
+/*Images côtes à côtes*/
+#praticien img {
+    margin-top: -50px;
+ 
+} 
+footer{
+    display: flex;
+    justify-content: center;
+    height: 15vh;
+    background: white;
+    width: 90%;
+}
+
+
+
+
